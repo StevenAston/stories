@@ -22,7 +22,7 @@ Despite still being a student, Kayser’s influence grew. He developed a bi-prop
 
 His reputation as a brilliant, if abrasive, analyst was cemented when he was asked to investigate the failures of the Europa rocket, a Frankenstein’s monster of European space efforts. It was a three-stage rocket made by literally bolting together a British Blue Streak, a French Véronique, and a new West German third stage. Using a revolutionary new technique called the Finite Element Method (FEM), developed by his university professor, Kayser diagnosed the problem: vibrations from the second-stage shutdown were snapping the third stage in half. His report was so damning and the proposed fixes so expensive that it single-handedly collapsed the entire program. He would later convince West Germany to pull out of the Space Shuttle program, which he was certain would fail. In his wake, Germany’s national space ambitions lay in ruins, creating a brain drain of talent and a vacuum that Kayser himself was perfectly positioned to fill.
 
-## The Gospel of the Bundle Rocket
+## **The Gospel of the Bundle Rocket** or **A Fascist makes Bundle of Sticks**
 
 Kayser’s grand solution was the Bündelrakete, or "Bundle Rocket." The concept was beguilingly simple and had been kicking around since the 1920s. Instead of building bespoke, complex rockets for each mission, you would mass-produce a single, small, cheap rocket module—a "Lego brick." To launch bigger payloads, you simply bundled more of them together. His planned competitor to the Ariane rocket would feature a first stage composed of 216 individual rocket engines.
 
