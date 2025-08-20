@@ -4,7 +4,7 @@ In the grand, often ludicrous theatre of the Cold War, where superpowers posture
 
 It is a tale that feels less like history and more like a lost manuscript by Thomas Pynchon, a fever dream of high technology and low motives, where rockets are built with Volkswagen windshield wiper motors and company morale is maintained by getting chimpanzees addicted to cigarettes. It is a story that, for all its absurdity, serves as a strange, distorted prequel to our modern era of billionaire space barons.
 
-## A Portrait of the Emperor as a Young Nerd
+## A Portrait of the Emperor as a Young Nazi
 
 Lutz T. Kayser was born into a world on the brink. Arriving in Stuttgart in March 1939, his childhood was set against the backdrop of a global cataclysm orchestrated by his own country. We know little of his earliest years, but we know he came from money—serious money. His father was the director of Südzucker AG, the world’s largest sugar producer, a fortune that would later provide the seed capital for his cosmic ambitions.
 
